@@ -6,7 +6,7 @@ The farmer only wants to farm in a square of good land with the maximum area.
 Please help the farmer to find the maximum area of the land they can farm in good land.
 
 Example:
-| Matrix A 6x5      ||||||| 
+| Matrix A 6x5      ||||||
 |-------------------|
 | 0 | 1 | 1 | 0 | 1 |
 | 1 | 1 | 0 | 1 | 0 |
