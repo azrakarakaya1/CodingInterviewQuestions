@@ -7,21 +7,19 @@ Please help the farmer to find the maximum area of the land they can farm in goo
 
 Example:
 
-0 1 1 0 1
+|   | 0 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|---|
+| 0 | 0 | 1 | 1 | 0 | 1 |
+| 1 | 1 | 1 | 0 | 1 | 0 |
+| 2 | 0 | 1 | 1 | 1 | 0 |
+| 3 | 1 | 1 | 1 | 1 | 0 |
+| 4 | 1 | 1 | 1 | 1 | 1 |
+| 5 | 0 | 0 | 0 | 0 | 0 |
 
-1 1 0 1 0
-
-0 1 1 1 0
-
-1 1 1 1 0
-
-1 1 1 1 1
-
-0 0 0 0 0
 
 ---
 
-*Solution:*
+**Solution:**
 
 One way to solve this problem is using brute force approach where we try all possible options to find the best solution to a problem.
 
