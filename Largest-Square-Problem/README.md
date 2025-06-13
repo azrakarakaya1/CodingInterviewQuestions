@@ -8,10 +8,15 @@ Please help the farmer to find the maximum area of the land they can farm in goo
 Example:
 
 0 1 1 0 1
+
 1 1 0 1 0
+
 0 1 1 1 0
+
 1 1 1 1 0
+
 1 1 1 1 1
+
 0 0 0 0 0
 
 ---
